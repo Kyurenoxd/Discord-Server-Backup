@@ -1,0 +1,18 @@
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Файлы с токенами и бэкапами
+token.txt
+token.enc
+/backups/
+
+# Временные файлы
+*.tmp
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
